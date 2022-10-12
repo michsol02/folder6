@@ -54,7 +54,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "sshidf95ty",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-37752812-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-37752812-1');\n</script>\n\n<script async defer src=\"https://scripts.simpleanalyticscdn.com/latest.js\"></script>\n<noscript><img src=\"https://queue.simpleanalyticscdn.com/noscript.gif\" alt=\"\" referrerpolicy=\"no-referrer-when-downgrade\" /></noscript>",
